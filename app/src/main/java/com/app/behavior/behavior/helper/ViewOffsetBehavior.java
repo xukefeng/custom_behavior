@@ -6,11 +6,6 @@ import android.view.View;
 
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
-/**
- * Copy from Android design library
- * <p>
- * Behavior will automatically sets up a
- */
 public class ViewOffsetBehavior<V extends View> extends CoordinatorLayout.Behavior<V> {
 
     private ViewOffsetHelper mViewOffsetHelper;

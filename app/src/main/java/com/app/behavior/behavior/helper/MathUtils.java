@@ -1,9 +1,5 @@
 package com.app.behavior.behavior.helper;
 
-/**
- * Copy from Android design library
- * Created by chensuilun on 16/7/24.
- */
 class MathUtils {
 
     static int constrain(int amount, int low, int high) {

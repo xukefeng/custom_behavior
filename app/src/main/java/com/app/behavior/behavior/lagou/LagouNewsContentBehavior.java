@@ -16,11 +16,6 @@ import java.util.List;
 
 
 
-/**
- * 可滚动的新闻列表Behavior
- * <p/>
- * Created by chensuilun on 16/7/24.
- */
 public class LagouNewsContentBehavior extends HeaderScrollingViewBehavior {
     private static final String TAG = "UcNewsContentBehavior";
     private float lastX, lastY;

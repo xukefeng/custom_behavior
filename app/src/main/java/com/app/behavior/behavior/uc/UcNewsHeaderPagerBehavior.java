@@ -16,12 +16,6 @@ import com.app.behavior.behavior.helper.ViewOffsetBehavior;
 
 import java.lang.ref.WeakReference;
 
-
-/**
- * 可滚动的新闻列表的头部
- * <p/>
- * Created by chensuilun on 16/7/24.
- */
 public class UcNewsHeaderPagerBehavior extends ViewOffsetBehavior {
     private static final String TAG = "UcNewsHeaderPager";
     public static final int STATE_OPENED = 0;

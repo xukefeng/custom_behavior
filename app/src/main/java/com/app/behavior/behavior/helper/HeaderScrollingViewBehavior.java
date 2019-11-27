@@ -15,11 +15,6 @@ import com.google.android.material.appbar.AppBarLayout;
 
 import java.util.List;
 
-/**
- * Copy from Android design library
- * <p/>
- * Created by chensuilun on 16/7/24.
- */
 public abstract class HeaderScrollingViewBehavior extends ViewOffsetBehavior<View> {
     private final Rect mTempRect1 = new Rect();
     private final Rect mTempRect2 = new Rect();
